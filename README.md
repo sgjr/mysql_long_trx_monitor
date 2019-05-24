@@ -12,7 +12,8 @@
 安装好python依赖，修改脚本相关参数即可。
 
 ## 监控效果
-
+![image](https://github.com/sgjr/mysql_long_trx_monitor/blob/master/snapshot/monitor_view.png)
 
 ## 报警效果
+![image](https://github.com/sgjr/mysql_long_trx_monitor/blob/master/snapshot/alert_view.png)
 
